@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7f6025923852e4d7482cea8d3ed1c7bd
+timeCreated: 1485073555
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 200
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IsWasted
+  fontNames:
+  - IsWasted
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
